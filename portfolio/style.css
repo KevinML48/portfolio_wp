@@ -49,6 +49,7 @@ Description: Brief 7
 	text-decoration: none;
 }
 .nav-but-wrap { 
+	margin-top: 22px;
 	margin-left: 75px;
 	color: rgb(7, 0, 0);
 	float: right;

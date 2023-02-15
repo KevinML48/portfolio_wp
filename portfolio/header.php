@@ -34,7 +34,7 @@
 						</a>
 					</button>
 					<button type="button" class="btn btn-outline-info text-align-center">
-						<a href="<?= get_template_directory_uri(); ?>/page-contact.php">
+						<a href="<?= get_template_directory_uri(); ?>/page-contact.php"">
 							Contact
 						</a>
 					</button>

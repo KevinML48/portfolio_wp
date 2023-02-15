@@ -11,7 +11,11 @@
         <title>Mes Services</title>
     </head>
 <body>
+
+
+
         <div class="contenue-header-service">
+
             <h3>
                 Mes Services
             </h3>
@@ -78,15 +82,7 @@
     <main>
         <div class="contenue-service-main">
 
-            <h4 class="contact-moi">
-                Prenez contact avec moi !
-            </h4>
-
-            <button type="button" class="btn btn-outline-dark d-grid gap-2 col-6 mx-auto" id="button-contact-service">
-                <a href="/contact.html">
-                    Contactez moi !
-                </a>
-            </button>
+           
 
             <div class="container text-center">
                 <div class="row">
@@ -110,6 +106,8 @@
                         </p>
                     </div>
                    
+                    
+
                   </div>
                 </div>
             </div>
@@ -117,7 +115,7 @@
     </main>
 
     <style>
-        .contenue-header-service {
+       .contenue-header-service {
 	margin-top: 25px;
 	color: #000000;
 	text-align: center;
@@ -181,6 +179,7 @@ h3 {
 }
 
 .img-service {
+  margin-top: 25px;
 	border-top-left-radius: 25px;
 	border-bottom-right-radius: 25px;
 	border: 2px solid rgb(0, 0, 0);
@@ -225,7 +224,8 @@ ANNMATION
 	transform: scale(0.9, 0.9);
 	box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25), 
 	  -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
-  }
+  } 
     </style>
+
 </body>
 </html>
